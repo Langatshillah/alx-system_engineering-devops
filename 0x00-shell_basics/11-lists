@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -la . | awk 'NR<=2'
+ls -la . ../boot
